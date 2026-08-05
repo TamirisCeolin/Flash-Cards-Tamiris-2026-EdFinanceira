@@ -1,0 +1,1 @@
+# Flash-Cards-Tamiris-2026-EdFinanceira
