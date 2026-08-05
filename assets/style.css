@@ -8,7 +8,7 @@
 }
 
 .cabecalho {
-    background-color: #032044;
+    background-color: #123712;
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -16,7 +16,7 @@
 
 .cabecalho-titulo {
     font-size: 2vw;
-    color: #9896b7;
+    color: #5CE65C;
     font-family: "Bai Jamjuree";
     text-align: center;
 }
