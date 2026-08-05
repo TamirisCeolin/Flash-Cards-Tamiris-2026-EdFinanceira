@@ -95,13 +95,13 @@ body {
 
 .cartao__conteudo__resposta {
     transform: rotateY(180deg);
-    background-color: #8394b4;
+    background-color: #ADEBB3;
     border: 4px solid var(--cor-da-borda);
 }
 
 .rodape-texto {
     font-size: 2vw;
-    color: #9896b7;
+    color: #5CE65C;
     font-family: "Bai Jamjuree";
     text-align: center;
 }
