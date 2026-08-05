@@ -1,365 +1,419 @@
 criaCartao(
-    '1 - Matemática',
-    'Qual é o valor de π arredondado a duas casas decimais?',
-    '3,14'
+    '1 - Conceitos Básicos',
+    'O que é educação financeira?',
+    'É o conjunto de conhecimentos para administrar o dinheiro de forma consciente.'
 )
 
 criaCartao(
-    '2 - Matemática',
-    'Quanto é 7 × 8?',
-    '56'
+    '2 - Conceitos Básicos',
+    'O que é um orçamento?',
+    'É o planejamento das receitas e despesas.'
 )
 
 criaCartao(
-    '3 - Matemática',
-    'Qual é a raiz quadrada de 169?',
-    '13'
+    '3 - Conceitos Básicos',
+    'O que é receita?',
+    'É todo dinheiro que entra.'
 )
 
 criaCartao(
-    '4 - Matemática',
-    'Qual é a soma dos ângulos internos de um triângulo?',
-    '180°'
+    '4 - Conceitos Básicos',
+    'O que é despesa?',
+    'É todo dinheiro que sai.'
 )
 
 criaCartao(
-    '5 - Matemática',
-    'Resolva: 2x + 6 = 10. Qual é o valor de x?',
-    '2'
+    '5 - Conceitos Básicos',
+    'O que significa poupar?',
+    'Guardar parte do dinheiro para uso futuro.'
 )
 
 criaCartao(
-    '6 - Ciências',
-    'Qual é o gás essencial para a respiração humana?',
-    'Oxigênio'
+    '6 - Conceitos Básicos',
+    'Qual a diferença entre desejo e necessidade?',
+    'Necessidade é essencial; desejo é opcional.'
 )
 
 criaCartao(
-    '7 - Ciências',
-    'Qual planeta é conhecido como planeta vermelho?',
-    'Marte'
+    '7 - Planejamento',
+    'Por que registrar os gastos?',
+    'Para controlar as finanças e evitar desperdícios.'
 )
 
 criaCartao(
-    '8 - Ciências',
-    'Qual órgão do corpo humano é responsável por bombear o sangue?',
-    'Coração'
+    '8 - Planejamento',
+    'O que é um orçamento equilibrado?',
+    'Quando as receitas são iguais ou maiores que as despesas.'
 )
 
 criaCartao(
-    '9 - Ciências',
-    'Qual é a fórmula da glicose?',
-    'C6H12O6'
+    '9 - Planejamento',
+    'O que acontece quando se gasta mais do que ganha?',
+    'Surge o déficit financeiro.'
 )
 
 criaCartao(
-    '10 - Ciências',
-    'Qual é o metal líquido em temperatura ambiente?',
-    'Mercúrio'
+    '10 - Planejamento',
+    'Qual o primeiro passo para organizar as finanças?',
+    'Conhecer receitas e despesas.'
 )
 
 criaCartao(
-    '11 - História',
-    'Quem proclamou a independência do Brasil?',
-    'Dom Pedro I'
+    '11 - Consumo',
+    'O que é consumo consciente?',
+    'Comprar apenas o necessário, evitando desperdícios.'
 )
 
 criaCartao(
-    '12 - História',
-    'Em que ano ocorreu a Revolução Francesa?',
-    '1789'
+    '12 - Consumo',
+    'Por que comparar preços antes de comprar?',
+    'Para economizar dinheiro.'
 )
 
 criaCartao(
-    '13 - História',
-    'Qual país foi liderado por Napoleão Bonaparte?',
-    'França'
+    '13 - Consumo',
+    'Promoção sempre significa economia?',
+    'Não, apenas se a compra for realmente necessária.'
 )
 
 criaCartao(
-    '14 - História',
-    'Quem foi o líder do movimento abolicionista no Brasil?',
-    'José do Patrocínio'
+    '14 - Consumo',
+    'O que é compra por impulso?',
+    'Comprar sem planejamento ou necessidade.'
 )
 
 criaCartao(
-    '15 - História',
-    'Qual foi o tratado que pôs fim à Primeira Guerra Mundial?',
-    'Tratado de Versalhes'
+    '15 - Consumo',
+    'Qual hábito ajuda a evitar compras impulsivas?',
+    'Fazer uma lista antes de comprar.'
 )
 
 criaCartao(
-    '16 - Geografia',
-    'Qual é a capital da Argentina?',
-    'Buenos Aires'
+    '16 - Crédito',
+    'O que é crédito?',
+    'É dinheiro emprestado que deverá ser pago.'
 )
 
 criaCartao(
-    '17 - Geografia',
-    'Qual é o menor país do mundo?',
-    'Vaticano'
+    '17 - Crédito',
+    'O cartão de crédito é dinheiro extra?',
+    'Não, é uma forma de pagamento.'
 )
 
 criaCartao(
-    '18 - Geografia',
-    'Qual é o bioma predominante na Amazônia?',
-    'Floresta tropical'
+    '18 - Crédito',
+    'O que acontece ao pagar apenas o mínimo da fatura?',
+    'Incidem juros elevados.'
 )
 
 criaCartao(
-    '19 - Geografia',
-    'Qual oceano banha a costa leste do Brasil?',
-    'Atlântico'
+    '19 - Crédito',
+    'O que é limite do cartão?',
+    'Valor máximo disponível para compras.'
 )
 
 criaCartao(
-    '20 - Geografia',
-    'Qual é a capital do Japão?',
-    'Tóquio'
+    '20 - Crédito',
+    'Quando o crédito pode ser vantajoso?',
+    'Quando usado com planejamento e responsabilidade.'
 )
 
 criaCartao(
-    '21 - Literatura',
-    'Quem escreveu "O Guarani"?',
-    'José de Alencar'
+    '21 - Juros',
+    'O que são juros?',
+    'Valor pago pelo uso do dinheiro.'
 )
 
 criaCartao(
-    '22 - Literatura',
-    'Quem é o autor de "Vidas Secas"?',
-    'Graciliano Ramos'
+    '22 - Juros',
+    'Quem empresta dinheiro cobra o quê?',
+    'Juros.'
 )
 
 criaCartao(
-    '23 - Literatura',
-    'Qual é o movimento literário de "Os Lusíadas"?',
-    'Classicismo'
+    '23 - Juros',
+    'O que são juros compostos?',
+    'Juros calculados sobre o valor acumulado.'
 )
 
 criaCartao(
-    '24 - Literatura',
-    'Quem é o autor da frase "Tudo vale a pena se a alma não é pequena"?',
-    'Fernando Pessoa'
+    '24 - Juros',
+    'Quem investe pode ganhar juros?',
+    'Sim.'
 )
 
 criaCartao(
-    '25 - Literatura',
-    'Quem escreveu "Memórias Póstumas de Brás Cubas"?',
-    'Machado de Assis'
+    '25 - Juros',
+    'Juros altos favorecem quem deve dinheiro?',
+    'Não.'
 )
 
 criaCartao(
-    '26 - Curiosidades',
-    'Quantos continentes existem no planeta Terra?',
-    '6'
+    '26 - Investimentos',
+    'O que é investir?',
+    'Aplicar dinheiro para obter rendimento.'
 )
 
 criaCartao(
-    '27 - Curiosidades',
-    'Qual é o animal terrestre mais rápido do mundo?',
-    'Guepardo'
+    '27 - Investimentos',
+    'Qual o objetivo de investir?',
+    'Fazer o patrimônio crescer.'
 )
 
 criaCartao(
-    '28 - Curiosidades',
-    'Qual é a capital da Austrália?',
-    'Camberra'
+    '28 - Investimentos',
+    'O que é rentabilidade?',
+    'O ganho obtido com um investimento.'
 )
 
 criaCartao(
-    '29 - Curiosidades',
-    'Em que país se localiza a Torre Eiffel?',
-    'França'
+    '29 - Investimentos',
+    'Todo investimento possui risco?',
+    'Sim, em diferentes níveis.'
 )
 
 criaCartao(
-    '30 - Curiosidades',
-    'Quantos segundos há em uma hora?',
-    '3600'
+    '30 - Investimentos',
+    'Por que diversificar investimentos?',
+    'Para reduzir riscos.'
 )
 
 criaCartao(
-    '31 - Matemática',
-    'Qual é o valor de 5³?',
-    '125'
+    '31 - Reserva Financeira',
+    'O que é reserva de emergência?',
+    'Dinheiro guardado para imprevistos.'
 )
 
 criaCartao(
-    '32 - Ciências',
-    'Qual é a unidade de medida da força no Sistema Internacional?',
-    'Newton'
+    '32 - Reserva Financeira',
+    'Quando usar a reserva de emergência?',
+    'Em situações inesperadas.'
 )
 
 criaCartao(
-    '33 - História',
-    'Quem foi o primeiro imperador romano?',
-    'Cesar Augusto'
+    '33 - Reserva Financeira',
+    'A reserva de emergência deve ficar acessível?',
+    'Sim.'
 )
 
 criaCartao(
-    '34 - Geografia',
-    'Qual é o maior deserto do mundo?',
-    'Saara'
+    '34 - Metas',
+    'O que é uma meta financeira?',
+    'Um objetivo relacionado ao uso do dinheiro.'
 )
 
 criaCartao(
-    '35 - Literatura',
-    'Quem escreveu "O Cortiço"?',
-    'Aluísio Azevedo'
+    '35 - Metas',
+    'Por que definir metas financeiras?',
+    'Para orientar as decisões financeiras.'
 )
 
 criaCartao(
-    '36 - Curiosidades',
-    'Qual é a moeda oficial do Japão?',
-    'Iene'
+    '36 - Empreendedorismo',
+    'O que é lucro?',
+    'O dinheiro que sobra após pagar os custos.'
 )
 
 criaCartao(
-    '37 - Matemática',
-    'Qual é a soma dos primeiros 10 números naturais?',
-    '55'
+    '37 - Empreendedorismo',
+    'O que é custo de produção?',
+    'Os gastos para produzir um bem ou serviço.'
 )
 
 criaCartao(
-    '38 - Ciências',
-    'Qual é o maior órgão do corpo humano?',
-    'Pele'
+    '38 - Empreendedorismo',
+    'O que é receita de uma empresa?',
+    'O dinheiro recebido pelas vendas.'
 )
 
 criaCartao(
-    '39 - História',
-    'Qual cidade foi bombardeada em 1945 com a primeira bomba atômica?',
-    'Hiroshima'
+    '39 - Empreendedorismo',
+    'Uma empresa sem lucro pode sobreviver por muito tempo?',
+    'Não.'
 )
 
 criaCartao(
-    '40 - Geografia',
-    'Qual é o rio que corta o Egito?',
-    'Nilo'
+    '40 - Empreendedorismo',
+    'Por que controlar os custos?',
+    'Para aumentar o lucro.'
 )
 
 criaCartao(
-    '41 - Matemática',
-    'Qual é a raiz quadrada de 144?',
-    '12'
+    '41 - Agronegócio',
+    'Por que planejar os gastos da propriedade rural?',
+    'Para garantir sustentabilidade financeira.'
 )
 
 criaCartao(
-    '42 - Ciências',
-    'Qual é o planeta mais próximo do Sol?',
-    'Mercúrio'
+    '42 - Agronegócio',
+    'O clima pode afetar o planejamento financeiro rural?',
+    'Sim.'
 )
 
 criaCartao(
-    '43 - Ciências',
-    'Qual é a fórmula química da água?',
-    'H2O'
+    '43 - Agronegócio',
+    'Por que diversificar a produção agrícola?',
+    'Para reduzir riscos financeiros.'
 )
 
 criaCartao(
-    '44 - História',
-    'Em que ano o Brasil proclamou sua independência?',
-    '1822'
+    '44 - Agronegócio',
+    'O preço dos produtos agrícolas é sempre estável?',
+    'Não.'
 )
 
 criaCartao(
-    '45 - História',
-    'Quem foi o primeiro presidente do Brasil?',
-    'Deodoro da Fonseca'
+    '45 - Agronegócio',
+    'O produtor rural deve registrar receitas e despesas?',
+    'Sim.'
 )
 
 criaCartao(
-    '46 - Geografia',
-    'Qual é o maior país do mundo em território?',
-    'Rússia'
+    '46 - Sustentabilidade',
+    'Economizar água pode gerar economia financeira?',
+    'Sim.'
 )
 
 criaCartao(
-    '47 - Geografia',
-    'Qual é o rio mais extenso do Brasil?',
-    'Amazonas'
+    '47 - Sustentabilidade',
+    'Reduzir desperdícios aumenta os lucros?',
+    'Sim.'
 )
 
 criaCartao(
-    '48 - Literatura',
-    'Quem escreveu "Dom Casmurro"?',
-    'Machado de Assis'
+    '48 - Sustentabilidade',
+    'Sustentabilidade também envolve economia?',
+    'Sim.'
 )
 
 criaCartao(
-    '49 - Literatura',
-    'Qual poeta ficou conhecido como "poeta do povo"?',
-    'Carlos Drummond de Andrade'
+    '49 - Tecnologia',
+    'Planilhas ajudam no controle financeiro?',
+    'Sim.'
 )
 
 criaCartao(
-    '50 - Curiosidades',
-    'Qual é o elemento químico representado pelo símbolo O?',
-    'Oxigênio'
+    '50 - Tecnologia',
+    'Aplicativos podem auxiliar no orçamento?',
+    'Sim.'
 )
 
 criaCartao(
-    '51 - Curiosidades',
-    'Quantos lados tem um hexágono?',
-    '6'
+    '51 - Economia',
+    'O que é inflação?',
+    'Aumento geral dos preços.'
 )
 
 criaCartao(
-    '52 - Ciências',
-    'Qual é a velocidade da luz no vácuo (em km/s, aproximado)?',
-    '300.000 km/s'
+    '52 - Economia',
+    'A inflação reduz o poder de compra?',
+    'Sim.'
 )
 
 criaCartao(
-    '53 - Matemática',
-    'Qual é o valor do logaritmo de 100 na base 10?',
-    '2'
+    '53 - Economia',
+    'Guardar dinheiro sem rendimento pode perder valor?',
+    'Sim, por causa da inflação.'
 )
 
 criaCartao(
-    '54 - História',
-    'Quem foi o líder da Inconfidência Mineira?',
-    'Tiradentes'
+    '54 - Economia',
+    'O salário é considerado receita?',
+    'Sim.'
 )
 
 criaCartao(
-    '55 - Geografia',
-    'Qual é a capital de Portugal?',
-    'Lisboa'
+    '55 - Economia',
+    'Impostos influenciam o preço dos produtos?',
+    'Sim.'
 )
 
 criaCartao(
-    '56 - Curiosidades',
-    'Qual esporte é conhecido como "esporte bretão"?',
-    'Futebol'
+    '56 - Ética Financeira',
+    'Por que pagar dívidas em dia?',
+    'Para evitar juros e manter boa reputação.'
 )
 
 criaCartao(
-    '57 - Ciências',
-    'Qual é o estado físico da água a 0°C em condições normais?',
-    'Sólido'
+    '57 - Ética Financeira',
+    'Cumprir contratos é importante financeiramente?',
+    'Sim.'
 )
 
 criaCartao(
-    '58 - Matemática',
-    'Qual é a soma dos ângulos internos de um quadrado?',
-    '360°'
+    '58 - Ética Financeira',
+    'Emprestar dinheiro exige responsabilidade?',
+    'Sim.'
 )
 
 criaCartao(
-    '59 - História',
-    'Qual era o nome do navio que trouxe a família real portuguesa ao Brasil em 1808?',
-    'Nau Príncipe Real'
+    '59 - Planejamento',
+    'É recomendado gastar toda a renda mensal?',
+    'Não.'
 )
 
 criaCartao(
-    '60 - Geografia',
-    'Qual país tem a maior população do mundo?',
-    'Índia'
+    '60 - Planejamento',
+    'Guardar dinheiro regularmente é um bom hábito?',
+    'Sim.'
 )
 
 criaCartao(
-    '61 - Literatura',
-    'Quem é o autor da obra "A Moreninha"?',
-    'Joaquim Manuel de Macedo'
+    '61 - Objetivos',
+    'Comprar um carro pode ser uma meta financeira?',
+    'Sim.'
+)
+
+criaCartao(
+    '62 - Objetivos',
+    'Fazer faculdade pode exigir planejamento financeiro?',
+    'Sim.'
+)
+
+criaCartao(
+    '63 - Objetivos',
+    'Planejar viagens ajuda a evitar dívidas?',
+    'Sim.'
+)
+
+criaCartao(
+    '64 - Trabalho',
+    'Ter mais de uma fonte de renda pode aumentar a segurança financeira?',
+    'Sim.'
+)
+
+criaCartao(
+    '65 - Trabalho',
+    'Investir em qualificação profissional pode aumentar a renda?',
+    'Sim.'
+)
+
+criaCartao(
+    '66 - Finanças Pessoais',
+    'Qual hábito fortalece a saúde financeira?',
+    'Poupar regularmente.'
+)
+
+criaCartao(
+    '67 - Finanças Pessoais',
+    'Controlar pequenos gastos faz diferença?',
+    'Sim.'
+)
+
+criaCartao(
+    '68 - Finanças Pessoais',
+    'É importante revisar o orçamento periodicamente?',
+    'Sim.'
+)
+
+criaCartao(
+    '69 - Finanças Pessoais',
+    'Toda dívida é necessariamente ruim?',
+    'Não, depende do planejamento e da finalidade.'
+)
+
+criaCartao(
+    '70 - Educação Financeira',
+    'Qual é o principal objetivo da educação financeira?',
+    'Tomar decisões conscientes sobre o uso do dinheiro.'
 )
